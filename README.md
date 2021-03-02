@@ -9,7 +9,7 @@ It uses XmRig and RandomX algorithm.
 
 Download the .7z or .zip file, uncompress it.
 
-Then launch the NanoPool_Easy_Monero_Miner.exe file.
+Then launch the NanoPool_Easy_Monero_Miner.exe file, in administrator account (needed by XmRig for it to be able to access MSR registers for fastest mining).
 
 Then enter your Monero address, the worker name that you want and the email address that will receive notifications.
 

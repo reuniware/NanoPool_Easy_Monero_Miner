@@ -3,6 +3,10 @@ NanoPool Easy Monero Miner for https://xmr.nanopool.org/
 
 This application will make you easily mine monero on xmr.nanopool.org.
 
+It uses XmRig and RandomX algorithm.
+
+# Step-by-step guide :
+
 Download the .7z or .zip file, uncompress it.
 
 Then launch the NanoPool_Easy_Monero_Miner.exe file.

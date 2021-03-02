@@ -1,4 +1,4 @@
-# NanoPool_Easy_Monero_Miner
+# NanoPool Easy Monero Miner
 NanoPool Easy Monero Miner for https://xmr.nanopool.org/
 
 This application will make you easily mine monero on xmr.nanopool.org.
